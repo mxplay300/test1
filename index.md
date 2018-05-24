@@ -1,2 +1,2 @@
 przykladowy tekst
-<img src="test1.jpeg" alt="Tekst"/>
+<img src="test1.jpg" alt="Tekst"/>
